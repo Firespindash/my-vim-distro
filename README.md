@@ -4,7 +4,7 @@ This would be my config if I could use *Vim*.
 
 This is a simple yet mostly complete *Vim* configuration with plugins, which can be considered as a distro as far as I know. \
 To see what text editor and other software I am actually using in my desktop see my [dotfiles](https://github.com/Firespindash/dotfiles) repo.
-I tried to keep it as simple as possible so only a single file is needed, because the plugins are in *GitHub* as well there seem to be no need to redistribute them in this repo. Anyway, take a look at it:
+I tried to keep it as simple as possible so only a single file is needed, because the plugins are in *GitHub* as well there seem to be no need to redistribute them in this repo. Anyway, take a look at it: \
 Screenshot of the welcome/start page with the _nord_ theme.
 ![Welcome Page Screenshot](my-vim-distro_startpage.png)
 Screenshot of the main page workflow.
